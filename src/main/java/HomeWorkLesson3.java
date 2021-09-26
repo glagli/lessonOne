@@ -72,6 +72,7 @@ public class HomeWorkLesson3 {
 
     /// Задача 2
     public static void arrayHundred() {
+
         System.out.println("\n" + "\n" + "Задание №2");
         int[] arr = new int[100];
         for (int i = 0; i < 100; i++) {
